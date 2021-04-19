@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RomainGueffier
+- 👀 I’m interested in code, reading, nature and help others learn
+- 🌱 I’m currently learning React, Symfony and Swift
+- 💞️ I’m looking to collaborate on freelance project in web development of part-time CDI jobs
+- 📫 You can reach me on Malt or LinkedIn, more on https://sites.google.com/view/romaingueffier/accueil
