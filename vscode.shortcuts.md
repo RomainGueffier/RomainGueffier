@@ -1,5 +1,6 @@
 # VSCode efficient shortcuts
-https://www.telerik.com/blogs/7-vs-code-productivity-hacks-17-extensions-that-will-change-your-life
+https://www.telerik.com/blogs/7-vs-code-productivity-hacks-17-extensions-that-will-change-your-life  
+https://github.com/microsoft/vscode-tips-and-tricks
 
 ### 1. Keyboard Navigation: The Basics
 
