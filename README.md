@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RomainGueffier
-- 👀 I’m interested in code, reading, nature and help others learn
-- 🌱 I’m currently learning React, Symfony and Swift
-- 💞️ I’m looking to collaborate on freelance project in web development of part-time CDI jobs
-- 📫 You can reach me on Malt or LinkedIn, more on https://sites.google.com/view/romaingueffier/accueil
+- 👀 I’m interested in code, reading, exploring nature and help others learn
+- 🌱 I’m currently practicing Node JS, Next JS, Rust and DevOps tools such as Docker and Kubernetes.
+- 📦 I am freelance since 2014 working on many projects like custom CMS, SEO and e-commerce consulting, REST API features and frontend creations. Therefore, PHP and MySQL are my old friends!
+- 💞️ I’m looking to collaborate on freelance projects or part-time jobs
+- 📫 You can reach me on Malt or LinkedIn
