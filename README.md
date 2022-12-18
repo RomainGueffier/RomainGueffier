@@ -172,4 +172,4 @@ The most important tool I ever had is obviously:
 
 ## GitHub Stats
   
-[<img alt="Romain Gueffier's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainGueffier">](#)
+[<img alt="Romain Gueffier's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainGueffier&layout=compact">](#)
