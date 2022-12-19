@@ -20,12 +20,12 @@ I have :
 - Improved SEO on many websites
 - Worked on private projects to train my skills
 - Published branding websites with great performances
-- Reverse engineered obsolote apps into documented and stable projects
-- Handled a developer team as lead developer, managing DevOps and tooling ⚡
-- Designed Git Flow and CI CD for faster deployments and better team workflow.
-- Used Grafana and good logging systems.
-- Took decisions about application architectures, database schemes and technologies choices.
-- Created UI libraries, Tools, Monorepos, Documentations and Estimates...
+- Reverse engineered obsolete apps into documented and stable projects
+- Handled projects and developer teams as lead developer, managing DevOps and tooling ⚡
+- Designed Git Flow and CI CD for faster deployments and better team workflow
+- Add better logging systems and improve code protection against attacks
+- Took decisions about application architectures, database schemes and technology choices
+- Created UI libraries, Tools, Monorepos, Documentations...
 
 I try my best to:
 - Help others and listen to advices to improve my work quality
@@ -159,7 +159,7 @@ The most important tool I ever had is obviously:
 
 ## 👀 Technology Survey
 
-| 📚 Backlog| 🔜 Todo| 📖 In Progress| ✅ In Review| 👴🏻 To Forsake|
+| 📚 Backlog| 🔜 Todo| 📖 In Progress| ✅ In Review| 👴🏻 Losing it|
 |-|-|-|-|-|
 |![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)|![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)|![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)||![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)|
 |![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)||![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)||![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
