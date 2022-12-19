@@ -1,14 +1,25 @@
 [linkedin]: https://www.linkedin.com/in/romain-gueffier/
 
-## Hello! 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/71011271" alt="avatar" width="128" /><br/>
+  <b>@RomainGueffier</b><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=RomainGueffier" alt="profile views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=RomainGueffier" alt="visits" />
+</div>
 
-I’m @RomainGueffier, full stack developer since 2014.<br/>
+## Hi! 👋
+
+My name is Romain, I'm a full stack developer since 2014.<br/>
 I live near Lyon in France, and I'm currently working as Freelance.<br/>
 My main customer is [Univirtual](https://www.univitual.ch), a software editor and cloud provider. 
 
-## 📫 Contact
+<div align="center">
+  <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="600" height="auto" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+<div align="center">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin account"/>
+</div>
 
 ## 🧳 Experiences
 
@@ -33,7 +44,7 @@ I try my best to:
 
 ## 🧰 Toolbox
 
-Here are my tools and languages I've used in the last 3 years.<br/>
+Here are my tools and languages I've used in the last 2 years.<br/>
 From left to right is the usage importance's order.
 
 The most important tool I ever had is obviously:
