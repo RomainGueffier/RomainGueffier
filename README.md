@@ -82,9 +82,9 @@ The most important tool I ever had is obviously:
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)<br/>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HeadlessUI](https://img.shields.io/badge/headlessui-66E3FF.svg?style=for-the-badge&logo=headlessui&logoColor=white)
+![HeadlessUI](https://img.shields.io/badge/headlessui-66E3FF.svg?style=for-the-badge&logo=headlessui&logoColor=white)<br/>
+![Mantine](https://img.shields.io/badge/mantine-whitesmoke?style=for-the-badge&logo=mantine&logoColor=3195e8)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
@@ -103,11 +103,12 @@ The most important tool I ever had is obviously:
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+![Tsup](https://img.shields.io/badge/tsup-black.svg?style=for-the-badge&logo=tsup&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/turborepo-EF4444.svg?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-![Vitest](https://img.shields.io/badge/-vitest-%23646CFF?style=for-the-badge&logo=vitest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-vitest-black?style=for-the-badge&logo=vitest&logoColor=yellow)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ![PNPM](https://img.shields.io/badge/PNPM-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
